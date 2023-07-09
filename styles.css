@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+table, tr, th, td{
+	background-color: yellow;
+	border: 3px solid ;
+}
+thead{
+	font-size: 28px;
+}
